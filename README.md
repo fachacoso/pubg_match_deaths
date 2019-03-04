@@ -3,5 +3,5 @@
 Data Science Society at Berkeley (Spring 2019) - General Membership
 
 ### Intermediate Team 2d ###
-Topic: 
+Topic: "How to Be a Better PUBG Player, by the Data"
 Data set: PUBG
